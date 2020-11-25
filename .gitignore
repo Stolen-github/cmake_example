@@ -1,0 +1,5 @@
+build
+venv
+compile_commands.json
+.clangd
+__pycache__

@@ -1,0 +1,5 @@
+name: fake project test
+command: ./main
+stdout: |
+    5
+    6
